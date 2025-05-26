@@ -39,7 +39,7 @@ I'm a sophomore at RIT with a passion for coding. I enjoy working on projects th
 
 | GitHub Stats | Streak Stats |
 |--------------|--------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=DJMax2007&show_icons=true&count_private=true&hide=prs,issues&theme=dark) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DJMax2007&theme=dark) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Djmax2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Streak](https://nirzak-streak-stats.vercel.app/?user=Djmax2007&theme=dark&hide_border=false) |
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJMax2007&layout=compact&theme=dark)
 
