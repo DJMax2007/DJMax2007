@@ -38,11 +38,10 @@ Welcome to my GitHub! I'm a **[Your Role/Interest]** with a passion for **[your 
 
 ---
 
-### 📊 GitHub Stats:
 
-![DJMax2007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJMax2007&show_icons=true&count_private=true&hide=prs,issues&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DJMax2007&theme=dark)
+| GitHub Stats | Streak Stats |
+|--------------|--------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=DJMax2007&show_icons=true&count_private=true&hide=prs,issues&theme=dark) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DJMax2007&theme=dark) |
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJMax2007&layout=compact&theme=dark)
 
