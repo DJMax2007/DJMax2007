@@ -6,7 +6,7 @@ Where I push the code and you pull the future!
 
 ## 🚀 About Me
 
-I'm a student with a passion for coding. I enjoy working on projects that combine creativity, logic, and impact to create meaningful experiences.
+I'm a sophomore with a passion for coding. I enjoy working on projects that combine creativity, logic, and impact to create meaningful experiences.
 <!--
 - 🔭 Currently working on: N/A
 -->
