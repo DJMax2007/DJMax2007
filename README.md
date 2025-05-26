@@ -1,32 +1,16 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, Welcome to my GitHub!
 
-Welcome to my GitHub! I'm a **[Your Role/Interest]** with a passion for **[your interests]**. I enjoy working on projects that combine creativity, logic, and impact to create meaningful experiences.
+Where I push the code and you pull the future!
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **[Your current project or learning focus]**
-- 🌱 Learning: **[New languages, tools, or frameworks you're exploring]**
-- 💡 Interested in: **[Areas like AI, Web Development, Game Dev, etc.]**
-- 🎓 Education: **[Your school/program if relevant]**
-- ⚡ Fun fact: **[A quirky or interesting fact about you]**
+I'm a student with a passion for coding. I enjoy working on projects that combine creativity, logic, and impact to create meaningful experiences.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-`[Java]` `Python` `JavaScript` `C++`
-
-**Frameworks & Libraries:**  
-`JavaFX` `React` `Flask`
-
-**Tools & Platforms:**  
-`Git` `VS Code` `IntelliJ` `Docker` `GitHub`
-
-**Databases:**  
-`MySQL` `MongoDB`
+- 🔭 Currently working on: N/A
+- 💡 Interested in: AI, Software & Game Development
+- 🎓 Education: BS Computer Science major at Rochester Institute of Technology
 
 ---
 
@@ -40,11 +24,13 @@ Welcome to my GitHub! I'm a **[Your Role/Interest]** with a passion for **[your 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
----
+<!---
 
 ## 📂 Featured Projects
 
@@ -52,6 +38,7 @@ Welcome to my GitHub! I'm a **[Your Role/Interest]** with a passion for **[your 
 - 🔐 [**LoginFX**](https://github.com/yourusername/LoginFX) – *JavaFX login system integrated with a MySQL database.*
 - 🧩 [**Tilt Puzzle Game**](https://github.com/yourusername/TiltPuzzleGame) – *Java-based puzzle with tilt logic and a text-based UI.*
 
+--->
 ---
 
 
@@ -64,11 +51,10 @@ Welcome to my GitHub! I'm a **[Your Role/Interest]** with a passion for **[your 
 ---
 
 ## 📫 Get in Touch
-
+<!--
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 📧 Email: [you@example.com](mailto:you@example.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+-->
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/ikemdinachi-aneke)
 
 ---
 
