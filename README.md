@@ -11,9 +11,9 @@ I'm a sophomore at RIT with a passion for coding. I enjoy working on projects th
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ikemdinachi-aneke) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anekemakua@gmail.com) 
-<!--
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
--->
+
+- 🌐 Portfolio: [Ikemdinachi's Portfolio](https://ikemdinachi-aneke.netlify.app/)
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
