@@ -50,5 +50,5 @@ I'm a sophomore at RIT with a passion for coding. I enjoy working on projects th
 
 ---
 
-Thanks for visiting! ⭐️ Feel free to check out my repositories and leave a star if you like something!
+Thanks for visiting! Feel free to check out my repositories and leave a star ⭐️ if you like something!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
