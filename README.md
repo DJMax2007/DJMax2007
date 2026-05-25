@@ -43,7 +43,7 @@ I'm a sophomore at RIT with a passion for coding. I enjoy working on projects th
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-
+<!---
 
 | GitHub Stats | Streak Stats |
 |--------------|--------------|
@@ -51,7 +51,6 @@ I'm a sophomore at RIT with a passion for coding. I enjoy working on projects th
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJMax2007&layout=compact&theme=dark)
 
----
+--->
 
 Thanks for visiting! Feel free to check out my repositories and leave a star ⭐️ if you like something!
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
