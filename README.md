@@ -5,7 +5,7 @@ Where I push the code and you pull the future!
 ---
 
 # 💫 About Me:
-I'm a sophomore at RIT with a passion for coding. I enjoy working on projects that combine creativity, logic, and impact to create meaningful experiences.<br><br>💡 Interested in: AI, Software & Game Development<br>🎓 Education: BS Computer Science major at Rochester Institute of Technology<br>
+I'm a junior at RIT with a passion for coding. I enjoy working on projects that combine creativity, logic, and impact to create meaningful experiences.<br><br>💡 Interested in: AI, Software & Game Development<br>🎓 Education: BS Computer Science major at Rochester Institute of Technology<br>
 
 
 ## 🌐 Socials:
